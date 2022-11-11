@@ -5954,3 +5954,30 @@ DevTools listening on ws://127.0.0.1:52862/devtools/browser/24397a3e-1549-4c26-9
 JavaScript warning: https://www.zalando.pl/eFvO2L8D4jaxmSPmA3Jh5hvn/9hOr2VJDJa/LFhk/FW8dFnI/KORcB, line 1: unreachable code after return statement
 1668190600176	Marionette	INFO	Stopped listening on port 52871
 JavaScript warning: https://www.zalando.pl/eFvO2L8D4jaxmSPmA3Jh5hvn/9hOr2VJDJa/LFhk/FW8dFnI/KORcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668190633395	geckodriver	INFO	Listening on 127.0.0.1:52909
+1668190636421	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "52910" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DESUKI~1\\AppData\\Local\\Temp\\rust_mozprofileXixzNB"
+*** You are running in headless mode.
+1668190636733	Marionette	INFO	Marionette enabled
+1668190636737	Marionette	INFO	Listening on port 52919
+Read port: 52919
+WebDriver BiDi listening on ws://127.0.0.1:52910
+1668190636819	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DESUKI~1\\AppData\\Local\\Temp\\rust_mozprofileXixzNB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52910/devtools/browser/6a6b348b-6d33-425c-bb10-2223fe17e0ec
+JavaScript warning: https://www.zalando.pl/eFvO2L8D4jaxmSPmA3Jh5hvn/9hOr2VJDJa/LFhk/FW8dFnI/KORcB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.pl/eFvO2L8D4jaxmSPmA3Jh5hvn/9hOr2VJDJa/LFhk/FW8dFnI/KORcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668190639174	Marionette	INFO	Stopped listening on port 52919
+1668190672197	geckodriver	INFO	Listening on 127.0.0.1:52958
+1668190675251	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "52959" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DESUKI~1\\AppData\\Local\\Temp\\rust_mozprofile9nosy9"
+*** You are running in headless mode.
+1668190675575	Marionette	INFO	Marionette enabled
+1668190675579	Marionette	INFO	Listening on port 52968
+Read port: 52968
+WebDriver BiDi listening on ws://127.0.0.1:52959
+1668190675639	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DESUKI~1\\AppData\\Local\\Temp\\rust_mozprofile9nosy9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52959/devtools/browser/1dbb2239-8ec4-474c-bf45-3ffaa1f5c513
+JavaScript warning: https://www.zalando.pl/eFvO2L8D4jaxmSPmA3Jh5hvn/9hOr2VJDJa/LFhk/FW8dFnI/KORcB, line 1: unreachable code after return statement
+1668190677524	Marionette	INFO	Stopped listening on port 52968
