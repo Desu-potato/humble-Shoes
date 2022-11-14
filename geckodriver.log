@@ -6094,3 +6094,30 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 DevTools listening on ws://127.0.0.1:53383/devtools/browser/a5345307-5a07-4345-8514-0f91145b0505
 JavaScript warning: https://www.zalando.pl/eFvO2L8D4jaxmSPmA3Jh5hvn/9hOr2VJDJa/LFhk/FW8dFnI/KORcB, line 1: unreachable code after return statement
 1668190990666	Marionette	INFO	Stopped listening on port 53392
+1668191023723	geckodriver	INFO	Listening on 127.0.0.1:53430
+1668191026768	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "53431" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DESUKI~1\\AppData\\Local\\Temp\\rust_mozprofilertJUcq"
+*** You are running in headless mode.
+1668191027197	Marionette	INFO	Marionette enabled
+1668191027202	Marionette	INFO	Listening on port 53441
+Read port: 53441
+WebDriver BiDi listening on ws://127.0.0.1:53431
+1668191027297	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DESUKI~1\\AppData\\Local\\Temp\\rust_mozprofilertJUcq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53431/devtools/browser/70bf6150-ee7d-4407-925f-97c53faf179c
+JavaScript warning: https://www.zalando.pl/eFvO2L8D4jaxmSPmA3Jh5hvn/9hOr2VJDJa/LFhk/FW8dFnI/KORcB, line 1: unreachable code after return statement
+1668191029719	Marionette	INFO	Stopped listening on port 53441
+JavaScript warning: https://www.zalando.pl/eFvO2L8D4jaxmSPmA3Jh5hvn/9hOr2VJDJa/LFhk/FW8dFnI/KORcB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668191062742	geckodriver	INFO	Listening on 127.0.0.1:57685
+1668191065774	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57686" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DESUKI~1\\AppData\\Local\\Temp\\rust_mozprofileD1oL9v"
+*** You are running in headless mode.
+1668191066103	Marionette	INFO	Marionette enabled
+1668191066107	Marionette	INFO	Listening on port 57695
+Read port: 57695
+WebDriver BiDi listening on ws://127.0.0.1:57686
+1668191066202	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DESUKI~1\\AppData\\Local\\Temp\\rust_mozprofileD1oL9v\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57686/devtools/browser/7f0972ef-1abf-4521-98d7-70edaaf7b66e
+JavaScript warning: https://www.zalando.pl/eFvO2L8D4jaxmSPmA3Jh5hvn/9hOr2VJDJa/LFhk/FW8dFnI/KORcB, line 1: unreachable code after return statement
+1668191068218	Marionette	INFO	Stopped listening on port 57695
