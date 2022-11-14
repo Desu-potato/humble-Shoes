@@ -1,4 +1,4 @@
-from env import DOMEN, DOMEN_FOR_DETAILS, BUTTON_DETALS_PATH, REQUEST_DELAY
+from env import DOMEN, DOMEN_FOR_DETAILS, BUTTON_DETALS_PATH, REQUEST_DELAY, UR_WEBHOOK
 from bs4 import BeautifulSoup
 from selenium.webdriver import Firefox
 from selenium.webdriver.firefox.options import Options
@@ -10,7 +10,7 @@ options.headless = True
 
 
 def send_webhook(content):
-    url = "https://discord.com/api/webhooks/1037789102080270356/ICvKcjWylD93i1gf73IW8Sgiern4eKmLhtT_rKy2sX815zpuoY5Y21IY9c0QkD0-3OUU"
+    url = UR_WEBHOOK
     payload = json.dumps(content)
     headers = {
         'Content-Type' : 'application/json',
